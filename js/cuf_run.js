@@ -1,0 +1,1 @@
+Cufon.replace( { hover: true });
