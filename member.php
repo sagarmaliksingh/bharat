@@ -26,7 +26,7 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="support.html">Support</a></li>
           <li><a href="about.html">About Us</a></li>
-          <li><a href="Gallery.html">Gallery</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
           <li class="active"><a href="member.php">MEMBERSHIP FORM</a></li>
         </ul>
       </div>
@@ -153,7 +153,7 @@
       <ul class="fmenu">
         <li><a href="index.html">Home</a></li>
         <li><a href="support.html">Support</a></li>
-        <li><a href="Gallery.html">Gallery</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
         <li><a href="about.html">About Us</a></li>
         <li class="active"><a href="member.php">MEMBERSHIP FORM</a></li>
       </ul>
